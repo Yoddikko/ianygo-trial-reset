@@ -1,4 +1,10 @@
-# iAnyGo Trial Reset
+<h1>
+  <img src="https://github.com/user-attachments/assets/832c6a8f-f6b1-4332-aa59-f1048f064a34"
+       alt="iAnyGo Trial Reset"
+       width="64"
+       align="absmiddle">
+  iAnyGo Trial Reset
+</h1>
 
 Bypasses iAnyGo v4.11.8 free trial via binary patching.
 
@@ -9,6 +15,9 @@ Bypasses iAnyGo v4.11.8 free trial via binary patching.
 - Shows positive countdown instead of "00:00"
 - Clears trial state files & Rosetta AOT cache
 - Works on Apple Silicon (Rosetta 2 x86_64 binary)
+
+
+
 
 ## Quick Start
 
