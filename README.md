@@ -6,7 +6,7 @@
   iAnyGo Trial Reset
 </h1>
 
-Bypasses iAnyGo v4.11.8 free trial via binary patching.
+Bypasses iAnyGo v4.11.8 (and hopefully older and newer vesions) free trial via binary patching.
 
 ## What it does
 
